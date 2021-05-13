@@ -1,0 +1,7 @@
+'\n' newline
+'\b' backspace
+'\'' singlequote
+'\\' backslash
+'\t' tab
+'\0' null (used ot indicate the end of a string of characters)
+'\"' double quote
